@@ -12,7 +12,7 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
-    background-image: url(/assets/img/bola.png);
+    background-image: url("/assets/img/bola.png");
     background-repeat: no-repeat;
     background-size: 160px;
     background-position: top right;
